@@ -1,3 +1,3 @@
 # DevOpsTraining
 
-Welcome to DevOps training
+Welcome to Dev Ops
